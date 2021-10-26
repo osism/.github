@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/osism/logos/main/osism.png" alt="OSISM" width="471" height="205" />
+  <img src="https://raw.githubusercontent.com/osism/logos/main/osism.png" alt="OSISM" width="235" height="102" />
 </p>
 
 # Project description
