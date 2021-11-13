@@ -6,6 +6,8 @@
 
 OSISM is developing a solution for the holistic management of sustainable and software-defined cloud infrastructures.
 
+OSISM is used by the Sovereign Cloud Stack (SCS) to manage the core infrastructure services. As the basis for pluscloud open from the German-based cloud service provider PlusServer in Cologne, OSISM is an integral part of one of the first Gaia-X hosters.
+
 We enable fast, easy and consistent provisioning of compute, storage and network resources to run cloud-native applications.
 
 Our solution provides a solid and stable base for the deployment, operation and lifecycle management of internal cloud infrastructures, for public cloud data centres and, at the edge, for distributed systems. OSISM is also suitable for building true supercomputers and HPC environments.
