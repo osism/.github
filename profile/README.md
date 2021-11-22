@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/osism/logos/main/osism.png" alt="OSISM" width="235" height="102" />
+  <a href="https://osism.tech/en#jobs-anchor">
+    <img src="https://raw.githubusercontent.com/osism/.github/main/profile/images/we-are-hiring.png" alt="We are hiring!" />
+  </a>
 </p>
 
 ## Project description
