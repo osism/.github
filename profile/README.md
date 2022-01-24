@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://osism.tech/en#jobs-anchor">
-    <img src="https://raw.githubusercontent.com/osism/.github/main/profile/images/we-are-hiring.png" alt="We are hiring!" />
+    <img src="https://user-images.githubusercontent.com/50705044/150802437-1337c11f-0eee-4b82-8e0c-cd497fe2b4ed.png" alt="We are hiring!" />
   </a>
 </p>
 
@@ -25,7 +25,8 @@ If you have found a bug, a feature is missing or you have a question just open a
 [osism/issues](https://github.com/osism/issues). We will then move it to the
 right place and assign it as soon as possible.
 
-## Contribute
+## Contribute!
+
 
 Open Source Software lives from participation. Contributions are the lifeblood of open source projects.
 
