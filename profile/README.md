@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://osism.tech/en#jobs-anchor">
-    <img src="https://raw.githubusercontent.com/osism/.github/main/profile/images/we-are-hiring.png" alt="We are hiring!" />
+    <img src="https://raw.githubusercontent.com/osism/.github/main/profile/images/we-are-hiring.webp" alt="We are hiring!" />
   </a>
 </p>
 
@@ -28,5 +28,3 @@ right place and assign it as soon as possible.
 ## Contribute
 
 Open Source Software lives from participation. Contributions are the lifeblood of open source projects.
-
-## Professional services
