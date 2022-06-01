@@ -35,6 +35,12 @@ If you have found a bug, a feature is missing or you have a question just open a
 [osism/issues](https://github.com/osism/issues). We will then move it to the
 right place and assign it as soon as possible.
 
+## Matrix
+
+On Matrix we are available via [#osism](https://matrix.to/#/#osism:matrix.org) for problems,
+suggestions, feedback etc. around OSISM. We are also happy to discuss topics like OpenStack,
+Ceph, and Ansible in general.
+
 ## Contribute
 
 Open Source Software lives from participation. Contributions are the lifeblood of open source
