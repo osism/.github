@@ -13,8 +13,12 @@ OSISM is used by the [Sovereign Cloud Stack](https://scs.community/) (SCS) to ma
 the core infrastructure services.
 
 As the basis for [pluscloud open](https://www.plusserver.com/produkte/pluscloud-open) from
-the German-based cloud service provider PlusServer in Cologne, OSISM is an integral part of
-one of the first [Gaia-X](https://www.gaia-x.eu) compatible hosters.
+the German-based cloud service provider [PlusServer](https://www.plusserver.com) in Cologne,
+OSISM is an integral part of one of the first [Gaia-X](https://www.gaia-x.eu) compatible hosters.
+
+[Wavecon](https://www.wavecon.de/de/), owned by [noris network AG](https://www.noris.de),
+also relies on OSISM to set up and operate a completely open, standardised sovereign public
+cloud: the [Wavestack](https://www.noris.de/wavestack-cloud-demo).
 
 We enable fast, easy and consistent management and provisioning of compute, storage and
 network resources to run cloud-native applications.
