@@ -18,7 +18,7 @@ OSISM is an integral part of one of the first [Gaia-X](https://www.gaia-x.eu) co
 
 [Wavecon](https://www.wavecon.de/de/), owned by [noris network AG](https://www.noris.de),
 also relies on OSISM to set up and operate a completely open, standardised sovereign public
-cloud: the [Wavestack](https://www.noris.de/wavestack-cloud-demo).
+cloud: the [Wavestack](https://www.noris.de/wavestack-cloud).
 
 We enable fast, easy and consistent management and provisioning of compute, storage and
 network resources to run cloud-native applications.
