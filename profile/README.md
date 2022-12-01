@@ -1,10 +1,7 @@
+# Welcome to OSISM!
 <p align="center">
-  <a href="https://osism.tech/en#jobs-anchor">
-    <img src="https://raw.githubusercontent.com/osism/.github/main/profile/images/we-are-hiring.webp" alt="We are hiring!" />
-  </a>
+  <img src="https://raw.githubusercontent.com/osism/.github/main/profile/images/osism-overview.drawio.png" alt="We are hiring!" />
 </p>
-
-## Project description
 
 OSISM is developing a solution for the holistic management of sustainable, sovereign
 software-defined cloud infrastructures.
@@ -63,3 +60,9 @@ Ceph, and Ansible in general.
 
 Open Source Software lives from participation. Contributions are the lifeblood of open source
 projects.
+
+<p align="center">
+  <a href="https://osism.tech/en#jobs-anchor">
+    <img src="https://raw.githubusercontent.com/osism/.github/main/profile/images/we-are-hiring.webp" alt="We are hiring!" />
+  </a>
+</p>
