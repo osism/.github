@@ -28,6 +28,20 @@ management of on-premise cloud infrastructures, for public cloud data centres an
 for distributed systems. OSISM is also suitable for building supercomputers and HPC
 environments.
 
+### OSISM Bare-metal
+
+### OSISM Ceph
+
+### OSISM Kubernetes
+
+### OSISM Kubernetes as a Service
+
+### OSISM Logging, Monitoring & Telemetry
+
+### OSISM OpenStack
+
+### OSISM SONiC
+
 ## Documentation
 
 Documentation on OSISM can be found at [docs.osism.tech](https://docs.osism.tech).
