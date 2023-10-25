@@ -25,19 +25,16 @@ management of on-premise cloud infrastructures, for public cloud data centres an
 for distributed systems. OSISM is also suitable for building supercomputers and HPC
 environments.
 
-### OSISM Bare-metal
+OSISM is made up of many individual modules. Most modules can also be used independently of
+each other.
 
-### OSISM Ceph
-
-### OSISM Kubernetes
-
-### OSISM Kubernetes as a Service
-
-### OSISM Logging, Monitoring & Telemetry
-
-### OSISM OpenStack
-
-### OSISM SONiC
+* OSISM Bare-metal
+* OSISM Ceph
+* OSISM Kubernetes
+* OSISM Kubernetes as a Service
+* OSISM Logging, Monitoring & Telemetry
+* OSISM OpenStack
+* OSISM SONiC
 
 ## Documentation
 
