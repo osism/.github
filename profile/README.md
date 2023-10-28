@@ -60,9 +60,3 @@ Ceph, and Ansible in general.
 
 Open Source Software lives from participation. Contributions are the lifeblood of open source
 projects.
-
-<p align="center">
-  <a href="https://osism.tech/en#jobs-anchor">
-    <img src="https://raw.githubusercontent.com/osism/.github/main/profile/images/we-are-hiring.webp" alt="We are hiring!" />
-  </a>
-</p>
