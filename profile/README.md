@@ -31,6 +31,7 @@ each other.
 
 * OSISM Bare-metal
 * OSISM Ceph
+* OSISM Identity & Access Management
 * OSISM Kubernetes
 * OSISM Kubernetes as a Service
 * OSISM Logging, Monitoring & Telemetry
