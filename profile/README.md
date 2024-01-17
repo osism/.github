@@ -9,6 +9,8 @@ network resources to run cloud-native applications.
 OSISM is used by the [Sovereign Cloud Stack](https://scs.community/) (SCS) to manage
 the core infrastructure services.
 
+## Modules 📦️
+
 OSISM is made up of many individual modules. Most modules can also be used independently of
 each other.
 
@@ -23,11 +25,8 @@ each other.
 
 ## Documentation 📚
 
-The new documentation on OSISM can be found at [osism.github.io](https://osism.github.io/docs/intro/).
+The documentation can be found at [osism.github.io](https://osism.github.io/docs/intro/).
 The associated repository is [osism/osism.github.io](https://github.com/osism/osism.github.io).
-
-The old documentation on OSISM can be found at [docs.osism.tech](https://docs.osism.tech).
-The associated repository is [osism/documentation](https://github.com/osism/documentation).
 
 ## Issues 🐛
 
