@@ -25,7 +25,7 @@ each other.
 
 ## Documentation 📚
 
-The documentation can be found at [osism.github.io](https://osism.github.io/docs/intro/).
+The documentation can be found at [osism.tech](https://osism.tech/docs/intro/).
 The associated repository is [osism/osism.github.io](https://github.com/osism/osism.github.io).
 
 ## Issues 🐛
