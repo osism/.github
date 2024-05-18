@@ -25,7 +25,7 @@ each other.
 
 ## Documentation 📚
 
-The documentation can be found at [osism.tech](https://osism.tech/docs/intro/).
+The documentation can be found at [osism.tech](https://osism.tech/docs/).
 The associated repository is [osism/osism.github.io](https://github.com/osism/osism.github.io).
 
 ## Issues 🐛
@@ -44,3 +44,7 @@ Ceph, and Ansible in general.
 
 Contributions are welcome, and they are greatly appreciated. Open Source Software lives
 from contributions.
+
+## Get involved 🤝
+
+We are hiring. More information on our [jobs page](https://osism.tech/jobs/).
