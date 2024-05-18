@@ -9,19 +9,23 @@ network resources to run cloud-native applications.
 OSISM is used by the [Sovereign Cloud Stack](https://scs.community/) (SCS) to manage
 the core infrastructure services.
 
-## Modules 📦️
+## Components 📦️
 
-OSISM is made up of many individual modules. Most modules can also be used independently of
+OSISM is made up of many individual components. Most modules can also be used independently of
 each other.
 
-* OSISM Bare-metal
-* OSISM Ceph
-* OSISM Identity & Access Management
-* OSISM Kubernetes
-* OSISM Kubernetes as a Service
-* OSISM Logging, Monitoring & Telemetry
-* OSISM OpenStack
-* OSISM SONiC
+* [Infrastructure as a Service (IaaS) with OpenStack](https://osism.tech/docs/guides/concept-guide/components/openstack)
+* [Software Defined Storage (SDS) with Ceph](https://osism.tech/docs/guides/concept-guide/components/ceph)
+* [Bare Metal as a Service (BMaaS) with Ironic](https://osism.tech/docs/guides/concept-guide/components/ironic)
+* [Software Defined Networking (SDN) with SONiC & OVN](https://osism.tech/docs/guides/concept-guide/components/sonic)
+* [Kubernetes (K8s) with K3S](https://osism.tech/docs/guides/concept-guide/components/k3s)
+* [Kubernetes as a Service (KaaS) with Gardener](https://osism.tech/docs/guides/concept-guide/components/gardener)
+* [Kubernetes as a Service (KaaS) with Cluster API](https://osism.tech/docs/guides/concept-guide/components/clusterapi)
+* [Identity & Access Management with Keycloak](https://osism.tech/docs/guides/concept-guide/components/keycloak)
+* [Privileged Access Management (PAM) to all infrastructure with Teleport](https://osism.tech/docs/guides/concept-guide/components/teleport)
+* [Logging, Monitoring & Telemetry with Prometheus & Grafana](https://osism.tech/docs/guides/concept-guide/components/prometheus)
+* [Realtime insights with Netdata](https://osism.tech/docs/guides/concept-guide/components/netdata)
+* [Simple virtualization & containerization with Proxmox VE](https://osism.tech/docs/guides/concept-guide/components/proxmox)
 
 ## Documentation 📚
 
