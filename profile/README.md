@@ -25,7 +25,6 @@ each other.
 * [Privileged Access Management (PAM) to all infrastructure with Teleport](https://osism.tech/docs/guides/concept-guide/components/teleport)
 * [Logging, Monitoring & Telemetry with Prometheus & Grafana](https://osism.tech/docs/guides/concept-guide/components/prometheus)
 * [Realtime insights with Netdata](https://osism.tech/docs/guides/concept-guide/components/netdata)
-* [Simple virtualization & containerization with Proxmox VE](https://osism.tech/docs/guides/concept-guide/components/proxmox)
 
 ## Documentation 📚
 
