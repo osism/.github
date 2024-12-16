@@ -6,8 +6,8 @@ software-defined cloud infrastructures.
 OSISM enables fast, easy and consistent management and provisioning of compute, storage and
 network resources to run cloud-native applications.
 
-OSISM is used by the [Sovereign Cloud Stack](https://scs.community/) (SCS) to manage
-the core infrastructure services.
+OSISM is used by the [Sovereign Cloud Stack](https://www.sovereigncloudstack.org) (SCS) to manage
+the core infrastructure services. OSISM is SCS compatible.
 
 ## Components 📦️
 
