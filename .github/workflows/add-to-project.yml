@@ -16,13 +16,13 @@ jobs:
     name: Add issues and PRs to project
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/add-to-project@5afcf98fcd03f1c2f92c3c83f58ae24323cc57fd # latest main
+      - uses: actions/add-to-project@v2
         with:
           project-url: https://github.com/orgs/osism/projects/20
           github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
           labeled: renovate
           label-operator: NOT
-      - uses: actions/add-to-project@5afcf98fcd03f1c2f92c3c83f58ae24323cc57fd # latest main
+      - uses: actions/add-to-project@v2
         with:
           project-url: https://github.com/orgs/osism/projects/21
           github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
